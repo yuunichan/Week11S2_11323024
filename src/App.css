@@ -1,0 +1,31 @@
+
+/* App.css */
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Styling for Counter component */
+.counter-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.counter-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.counter-value {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.counter-button {
+  font-size: 16px;
+  padding: 5px 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
